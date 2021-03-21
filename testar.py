@@ -23,4 +23,4 @@ lb6.grid(row=0, column=2, rowspan=2, sticky=N+S)
 
 janela.geometry("500x300+500+200")
 janela.mainloop()
-## final
+## final ---
