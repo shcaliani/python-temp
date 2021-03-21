@@ -1,5 +1,6 @@
 ## propriedade rowspan e columnspan 
 ## mesclar colunas e linhas
+## incluido via git
 
 from tkinter import *
 
