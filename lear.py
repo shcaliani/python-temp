@@ -1,5 +1,6 @@
 ## teste vscode e git
 ## alterado no git
+## via dupla pelo vscode
 
 print ("oi")
 print ('----')
