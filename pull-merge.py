@@ -1,2 +1,2 @@
-print('verificando o graph)
+print('verificando o graph')
 print('despertar pull request')
